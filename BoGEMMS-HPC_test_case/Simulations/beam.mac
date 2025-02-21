@@ -1,0 +1,17 @@
+/run/verbose 0
+
+# source definition
+/gps/particle gamma
+
+/gps/pos/type Point
+/gps/pos/centre 0. 0. -10 cm
+/gps/direction 0 0 1
+
+
+/gps/energy 122.0 keV
+
+# Set number of particles and start
+/random/resetEngineFrom currentEvent.rndm
+/run/beamOn 3
+/random/saveThisRun
+
