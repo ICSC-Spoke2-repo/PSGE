@@ -17,7 +17,12 @@ The pipelines to be optimized are summarized in the following:
 2) Pipeline for JUNO and similar experiments: JUNO analysis has the problem to extract neutrino information from a variety of sources (reactors anti neutrino, solar neutrinos, atmospheric neutrinos, geo neutrinos and cosmological neutrinos at least) and energy ranges from a large background. This make the problem quite computationally intensive. JUNO made large use of GEANT4, integrated with others in JUNOSW, JUNO software environment \[7\]. Work is already in progress to have JUNOSW using multithreading and to integrate nVidia Optix to use GPU to propagate optical photons in Geant4 \[6\]. To further increase performances the goal is to investigate a technique to introduce limited parallelism both in Geant4 and JUNOSW insisting on a specific feature already present in the SW. Contact Person: Giuseppe Andronico (INFN)  
 3) Pipeline for CYGNO\[8\] and small/medium experiments in the astroparticle physics community: CYGNO, like many other astroparticle experiments, requires a computing model to acquire, store, simulate and analyze data typically far from High Energy Physics (HEP) experiments. Indeed, astroparticle experiments are typically characterized by the fact to be less demanding from computing resources with respect to HEP one but have to deal with unique and unrepeatable data, sometimes collected in extreme conditions, with extensive use of templates and Montecarlo, and are often re-calibrated and reconstructed many times for a given data sets.   
 
-
+<table align="center">
+  <tr>
+    <th border-style: none;><img src="assets/ratevssize2.png" width="600">
+    </th>
+  </tr>
+</table>
 ![logo](assets/ratevssize2.png) 
    *Results of the survey on the Italian astro-particle community about the characteristics of their computing model: experiments are characterized by having a different throughput respect to typical HEP experiments, anyhow following a scaling law that underline how are anyway demanding in the overall process (in proceeding of CHEP23 conference under publication)*  
 
