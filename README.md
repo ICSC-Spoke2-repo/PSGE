@@ -22,8 +22,12 @@ The pipelines to be optimized are summarized in the following:
     <th border-style: none;><img src="assets/ratevssize2.png" width="600">
     </th>
   </tr>
+  <tr>
+    <th border-style: none;> <i> Results of the survey on the Italian astro-particle community about the characteristics of their computing model: experiments are characterized by having a different throughput respect to typical HEP experiments, anyhow following a scaling law that underline how are anyway demanding in the overall process (in proceeding of CHEP23 conference under publication)</i>
+    </th>
+  </tr>
 </table>
-*Results of the survey on the Italian astro-particle community about the characteristics of their computing model: experiments are characterized by having a different throughput respect to typical HEP experiments, anyhow following a scaling law that underline how are anyway demanding in the overall process (in proceeding of CHEP23 conference under publication)*  
+
 
    Moreover, the varieties and the scale of computing models and requirements are extremely large. In this scenario, the Cloud infrastructure with standardized and optimized services offered to the scientific community could be a useful solution able to match the requirements of many small/medium size experiments. Starting from the  CYGNO computing model\[9\] based on the INFN cloud infrastructure, aiming at extending the experiment software, to similar experiments  and similar applications providing tools as a service to store, archive, analyze, and simulate data.  
    Contact person: Giovanni Mazzitelli (INFN)  
