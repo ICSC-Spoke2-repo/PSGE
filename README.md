@@ -23,7 +23,7 @@ The pipelines to be optimized are summarized in the following:
     </th>
   </tr>
   <tr>
-    <th border-style: none;> <i> Results of the survey on the Italian astro-particle community about the characteristics of their computing model: experiments are characterized by having a different throughput respect to typical HEP experiments, anyhow following a scaling law that underline how are anyway demanding in the overall process (in proceeding of CHEP23 conference under publication)</i>
+    <th border-style: none;> <i> Results of the survey on the Italian astro-particle community about the characteristics of their computing model: experiments are characterized by having a different throughput respect to typical HEP experiments, anyhow following a scaling law that underline how are anyway demanding in the overall process https://doi.org/10.1051/epjconf/202429507013</i>
     </th>
   </tr>
 </table>
