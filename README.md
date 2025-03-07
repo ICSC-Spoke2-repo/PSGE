@@ -7,7 +7,7 @@ The **Pipeline optimization for space and ground based experiments** (PSGE) flag
   <tr>
     <th border-style: none;><img src="http://www.inaf.it/it/sedi/sede-centrale-nuova/presidenza/ufficio-relazioni-con-il-pubblico-e-la-stampa/logo-inaf-file/inaf-vettoriale-bianco-trasp.png" width="250"></th>
     <th border-style: none;><img src="assets/PSGE.png" width="250"></th>
-    <th border-style: none;><img src="https://home.infn.it/images/news/LOGO_INFN_NEWS_sito.jpg" width="250" ></th>
+    <th border-style: none;><img src="https://www.lnf.infn.it/logo/logo_infn_lnf_1_sigla_lnf_white.png" width="250" ></th>
   </tr>
 </table>
 
