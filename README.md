@@ -59,5 +59,5 @@ References
 ## *Participating Institutions* 
 
 * Leader: GiovanniMazzitelli (INFN)  
-* Participants:     INFN, INAF   
-* External collaborators: Gorgio Dho (INFN), I. A. Costa (INFN)  
+* Participants: INFN, Roberto Peron (INAF)
+* External collaborators: Gorgio Dho (INFN), I. A. Costa (INFN), Nicola Marmo (INAF)  
