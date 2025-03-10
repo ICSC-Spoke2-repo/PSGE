@@ -100,7 +100,7 @@ $ python3 plotCLAIREPMT.py 2000/REFL_TYPE14/1000/PMT.dat
 This is supported by Centro Nazionale di Ricerca in High-Performance Computing, Big Data and Quantum Computing (CN_00000013 - CUP C53C22000350006).
 
 ## License
-Copyright 2025 Valentina Fioretti
+Copyright 2025 Valentina Fioretti, Alex Ciabattoni
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
