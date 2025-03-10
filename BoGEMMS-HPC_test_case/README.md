@@ -1,15 +1,15 @@
 # BoGEMMS-HPC test case
 
 ## Description
-This is an test case for using BoGEMMS-HPC to perform a simulation and analyze the output.
+This is a test case for using BoGEMMS-HPC to perform a simulation and analyze the output.
  
 The test case involves the irradiation with 122 keV photons of a cesium iodide (CsI) module, contained in an aluminum casing and coupled with a photomultiplier tube (PMT). The X photons hit perpendicularly the CsI in 40 different positions. When a 122 keV photon hit the CsI, optical photons are generated inside the scintillator and part of them is collected and absorbed by the PMT. The final output is the relative response of the PMT for each position, which is proportional to the average number of optical photons detected, compared to the corresponding experimental data obtained in laboratory.
 
 ## Usage
-There are two directories: **'Simulations'** and **'Analysis'**. In 'Simulations' you can find the files for performing the simulation, while in 'Analysis' there are the files for analyzing the simulation output and making the plot of the result.
+There are two directories: **'Simulations'** and **'Analysis'**. 'Simulations' contains the files for performing the simulation, while 'Analysis' provides the files for analyzing the simulation output and plotting the results.
 
 ### Simulation
-In 'Simulations' you find the following files:
+Files provided in 'Simulations':
 
 - **beam.mac**: macro file for the 122 keV photons
 - **runCLAIRE.conf**: configuration file for the simulation
@@ -55,13 +55,13 @@ At the end of the simulation, the results are stored in the following directory:
 where 'beam_id' goes from 1 to 40 and 'run_id' from 'run_start' to 'run_stop'.
 
 ### Analysis
-In 'Analysis' you find the following files:
+In 'Analysis' you can find the following files:
 
 - **filterCLAIREPMT.py**: python script to filter the simulation output
 - **plotCLAIREPMT.py**: python script to plot the result
 - **config/**: directory containing the file (**CLAIRE_pulse.dat**) with the experimental relative response for each beam position
 
-Use filterCLAIRE.py to filter the output files from simulation and write the relevant information to 'PMT.dat'.
+Use filterCLAIRE.py to filter the output files from the simulation and write the relevant information to 'PMT.dat'.
 In 'Analysis/' run:
 
 ```
@@ -74,7 +74,7 @@ Example:
 $ python3 filterCLAIREPMT.py ../Simulations/2000/REFL_TYPE14/1000/ 1 1
 ```
 
-This will create a directory like 
+This will create a directory like:
 
 {bgo_absl_type}/REFL_TYPE{refl_type}/{N_in}/
 
