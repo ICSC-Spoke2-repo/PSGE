@@ -58,6 +58,6 @@ References
 
 ## *Participating Institutions* 
 
-* Leader: GiovanniMazzitelli (INFN)  
-* Participants: INFN, Roberto Peron (INAF), Valentina Fioretti (INAF)
+* Leader: Giovanni Mazzitelli (INFN)  
+* Participants: Giovanni Mazzitelli (INFN), Roberto Peron (INAF), Valentina Fioretti (INAF)
 * External collaborators: Gorgio Dho (INFN), I. A. Costa (INFN), Nicola Marmo (INAF), Alex Ciabattoni (INAF)  
