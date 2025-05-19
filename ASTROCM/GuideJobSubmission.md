@@ -46,7 +46,6 @@ Open the indicated link and enter the displayed code:
 **Completing the Configuration:**
 
 ```bash
-[abrittac@ui ~]$ oidc-add test_lnf
 [abrittac@ui ~]$ export BEARER_TOKEN=$(oidc-token test_lnf)
 [abrittac@ui ~]$ mask=$(umask); umask 0077 ; oidc-token test_lnf > ${HOME}/token ; umask $mask
 [abrittac@ui ~]$ export _condor_SEC_CLIENT_AUTHENTICATION_METHODS=SCITOKENS
