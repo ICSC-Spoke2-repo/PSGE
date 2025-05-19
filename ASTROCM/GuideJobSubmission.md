@@ -117,3 +117,13 @@ cat /etc/redhat-release
 ```
 
 ---
+**Enviroment variable that can make life easier (optional):**
+```
+CE=tier2-ce2.lnf.infn.it
+export _condor_SEC_CLIENT_AUTHENTICATION_METHODS=SCITOKENS
+
+export _condor_CONDOR_HOST=$CE:9619
+export _condor_SCHEDD_HOST=$CE
+
+alias condor_submit='condor_submit -spool'
+```
