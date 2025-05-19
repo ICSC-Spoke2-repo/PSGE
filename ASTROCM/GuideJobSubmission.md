@@ -6,7 +6,7 @@
 
 | Hostname                                    | vCPU | RAM (GiB) | OS          | Authorized VOs                                         |
 | ------------------------------------------- | ---- | --------- | ----------- | ------------------------------------------------------ |
-| **tier2-ce2.lnf.infn.it**                   | 5304 | 22612     | Almalinux 9 | dteam, belle, ops, atlas, padme, lhcb, cta, csn2(psge) |
+| **tier2-ce2.lnf.infn.it**                   |  400 | 1200      | Almalinux 9 | dteam, belle, ops, atlas, padme, lhcb, cta, csn2(psge) |
 
 ---
 
