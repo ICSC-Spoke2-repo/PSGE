@@ -10,7 +10,7 @@ Navigate to: [https://iam.psge.cloud.infn.it/login](https://iam.psge.cloud.infn.
 
 Click on the **INFN** login button to authenticate using your INFN AAI credentials.
 
-![Step 1 – Login](./content/Screenshot4.png)
+![Step 1 – Registration Form](./content/Screenshot1.png)
 
 ---
 
@@ -23,11 +23,19 @@ Fill in all the required fields:
 - **Family name**
 - **Email**
 - **Username**
-- **Notes** (e.g., your experiment involvement and national contact person)
+- **Notes** (specify your experiment CSN2 group and national contact person)
 
 Click **Register** to proceed.
 
-![Step 2 – Registration Form](./content/Screenshot1.png)
+![Step 2 – Registration Form](./content/Screenshot2.png)
+
+---
+
+## 3. Registration Submitted
+
+After confirming, you will see a message stating that your request has been **submitted successfully**.
+
+![Step 3 – Login](./content/Screenshot3.png)
 
 ---
 
@@ -37,7 +45,10 @@ You will receive an email from the PSGE IAM service.
 
 Open the email and click on the confirmation link provided to verify your registration request.
 
-![Step 3 – Email Confirmation](./content/Screenshot6.png)
+![Step 4 – Request Submitted](./content/Screenshot4.png)
+
+An email confirmation has been sent and the request is now awaiting administrator approval.
+
 
 ---
 
@@ -49,25 +60,11 @@ Click **Confirm Request** to continue.
 
 ![Step 4 – Confirm Request](./content/Screenshot5.png)
 
----
-
-## 5. Registration Submitted
-
-After confirming, you will see a message stating that your request has been **submitted successfully**.
-
-An email confirmation has been sent and the request is now awaiting administrator approval.
-
-![Step 5 – Request Submitted](./content/Screenshot3.png)
-
----
-
-## 6. Request Confirmed
-
 Once the system confirms your submission, you’ll see a **Request confirmed successfully** message.
 
 You will be notified via email once your request is approved by an administrator.
 
-![Step 6 – Request Confirmed](./content/Screenshot2.png)
+![Step 6 – Request Confirmed](./content/Screenshot6.png)
 
 ---
 
