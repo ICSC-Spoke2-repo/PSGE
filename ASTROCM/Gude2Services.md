@@ -2,6 +2,12 @@
 
 This guide will help you register and log into the PSGE IAM service available at [https://iam.psge.cloud.infn.it](https://iam.psge.cloud.infn.it).
 
+<!-- 
+* if you are not associeted/hosted/employed of INFN plese, before next steps, plse signup on: https://signup.app.infn.it/ 
+  * accept the security policy  https://userportal.app.infn.it/ (for foreign users no CODICE FISCALE (CF) is needed);
+  * follow the traning on computing security;
+  * goto haed with the registration in the PSGE IAM (step 1)
+-->
 ---
 
 ## 1. Login to PSGE IAM
