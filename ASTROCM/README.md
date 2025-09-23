@@ -1,4 +1,4 @@
-### shared pledge for the astro-particle community
+### Shared pledge for the astro-particle community:
 + One objective of the PSGE project—besides the generalization of the [Computing Model (CM)](https://github.com/CYGNUS-RD/middleware/) through the CYGNO use case—is to standardize
 access to pledged resources and optimize their utilization for small- and medium-scale experiments, thereby enabling efficient resource allocation 
 and amortizing potential surges in computational demand.
