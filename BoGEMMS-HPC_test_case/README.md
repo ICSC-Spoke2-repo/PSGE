@@ -2,6 +2,7 @@
 
 ## Description
 This is a test case for using BoGEMMS-HPC to perform a simulation and analyze the output.
+The BoGEMMS-HPC repository is available [here](https://www.ict.inaf.it/gitlab/icsc_g4_hpc/BoGEMMS-HPC).
  
 The test case involves the irradiation with 122 keV photons of a cesium iodide (CsI) module, contained in an aluminum casing and coupled with a photomultiplier tube (PMT). The X photons hit perpendicularly the CsI in 40 different positions. When a 122 keV photon hit the CsI, optical photons are generated inside the scintillator and part of them is collected and absorbed by the PMT. The final output is the relative response of the PMT for each position, which is proportional to the average number of optical photons detected, compared to the corresponding experimental data obtained in laboratory.
 
