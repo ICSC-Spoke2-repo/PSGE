@@ -1,4 +1,4 @@
 - Registarion https://github.com/ICSC-Spoke2-repo/PSGE/blob/main/ASTROCM/Gude2Services.md
 - Jupyter UI https://ui.psge.cloud.infn.it/
-- login ```ssh user@ui.psge.cloud.infn.it```
+- login ```ssh user@ui.psge.cloud.infn.it``` (NB to access via ssh you need to be looged in one time before via web interface https://ui.psge.cloud.infn.it/)
 - job submission https://github.com/ICSC-Spoke2-repo/PSGE/blob/main/ASTROCM/GuideJobSubmission.md
