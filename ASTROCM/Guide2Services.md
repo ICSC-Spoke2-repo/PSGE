@@ -23,18 +23,15 @@ This guide will help you register and log into the PSGE IAM service available at
 ### Case 2: You are **not associated / hosted / employed by INFN**
 1. Register at:  
    👉 https://signup.app.infn.it/
-2. Follow the registration guide:  
-   👉 [Registration to INFN (PDF)](https://github.com/CYGNUS-RD/cygno/blob/main/Registration%20to%20INFN.pdf)  
-   *(Tips for foreign users are included in the guide.)*
+2. Follow the registration guide:
+   👉 [Registration to INFN (PDF)](https://github.com/CYGNUS-RD/cygno/blob/main/Registration%20to%20INFN.pdf)
+   *(Tips for foreign users are included in the guide.)* 
 3. During registration:
    - Accept the security policy at  
      👉 https://userportal.app.infn.it/  
      *(For foreign users, a **Codice Fiscale (CF)** is **not required**.)*
    - Complete the **computing security training**.
-4. Register in the **CYGNO Cloud IAM** as a **user**:  
-   👉 https://iam-cygno.cloud.cnaf.infn.it/  
-   - Follow the [INFN Cloud Guide](https://guides.cloud.infn.it/docs/users-guides/en/latest/users_guides/getting_started/getting_started.html)
-   - In the **Notes** field, specify that you want to be part of the **cygno-user** group.
+4. Register following the Step 1
 
 ---
 
@@ -42,11 +39,9 @@ This guide will help you register and log into the PSGE IAM service available at
 - If you **do not receive an INFN username**, or
 - If you encounter an error related to the username (e.g. the one shown below),
 
-📩 **Please contact Giovanni Mazzitelli**.
-
 ![Username error example](https://github.com/CYGNUS-RD/cygno/blob/main/img/username_error.png)
 
-
+---
 
 ## 1. Login to PSGE IAM
 
