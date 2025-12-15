@@ -36,10 +36,7 @@ This guide will help you register and log into the PSGE IAM service available at
 ---
 
 ### Problems with INFN Username
-- If you **do not receive an INFN username**, or
-- If you encounter an error related to the username (e.g. the one shown below),
-
-![Username error example](https://github.com/CYGNUS-RD/cygno/blob/main/img/username_error.png)
+- If you **do not receive an INFN username**, or if you encounter an error related to the username, please contact your supervisor 
 
 ---
 
