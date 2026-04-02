@@ -59,7 +59,7 @@ when_to_transfer_output = ON_EXIT
 want_io_proxy           = true
 use_oauth_services      = cygno
 cygno_oauth_permissions = profile,email,openid,offline_access,wlcg.groups
-queue 3
+queue
 ```
 
 The `script.sh` file being, for example, a simple hello world:
